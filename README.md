@@ -38,7 +38,7 @@
 ###Output form
 <img width="1920" height="1200" alt="screenshot2" src="https://github.com/user-attachments/assets/4868d5ca-d9fe-4792-90d0-088949c2632c" />
 
- Servlet Concept Practiced
+  ## Servlet Concept Practiced
 
   This project demonstrates ServletConfig using init-param for configuration management, Request Handling via doGet and
   doPost methods, and Dynamic Content Generation using PrintWriter with modern CSS integration.
